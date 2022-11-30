@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="picoblue.png">
+<SubTexture name="picoblue idle0000" x="0" y="0" width="1637" height="1426" frameX="-719" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue left0000" x="1637" y="0" width="1576" height="1429" frameX="-719" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue down0000" x="3213" y="0" width="709" height="949" frameX="-1557" frameY="-476" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue up0000" x="0" y="1429" width="678" height="1025" frameX="-1600" frameY="-406" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue right0000" x="678" y="1429" width="841" height="1003" frameX="-1577" frameY="-426" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue deathstart0000" x="1519" y="1429" width="838" height="1025" frameX="-1508" frameY="-402" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue deathstart0001" x="0" y="2454" width="952" height="996" frameX="-1414" frameY="-430" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="picoblue deathrestart0000" x="952" y="2454" width="952" height="996" frameX="-1414" frameY="-430" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
+SPRITE BY BOYFRIENDSOULEVIL

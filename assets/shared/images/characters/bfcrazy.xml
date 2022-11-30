@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfcrazy.png">
+<SubTexture name="bfcrazy idle0000" x="890" y="1054" width="939" height="994" frameX="-593" frameY="-337" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy left0000" x="2518" y="0" width="941" height="989" frameX="-465" frameY="-343" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy left0001" x="2518" y="989" width="938" height="989" frameX="-453" frameY="-343" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy down0000" x="0" y="2073" width="908" height="953" frameX="-502" frameY="-383" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy down0001" x="908" y="2073" width="939" height="925" frameX="-502" frameY="-407" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy up0000" x="804" y="0" width="827" height="1026" frameX="-560" frameY="-308" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy up0001" x="0" y="0" width="804" height="1054" frameX="-560" frameY="-282" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy right0000" x="0" y="1054" width="890" height="1019" frameX="-646" frameY="-323" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bfcrazy right0001" x="1631" y="0" width="887" height="1021" frameX="-686" frameY="-323" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
+SPRITE BY BOYFRIENDSOULEVIL

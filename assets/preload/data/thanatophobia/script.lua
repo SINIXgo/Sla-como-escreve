@@ -1,9 +1,5 @@
-local allowCountdown = false
-function onStartCountdown()
-	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
-		startVideo('picocutscene');
-		allowCountdown = true;
-		return Function_Stop;
-	end
-	return Function_Continue;
+function onCreate() 
+makeLuaText('watermark'," Sinix Go and •zLauTyz• Timer Port ", 0, 2, 688); -- You can edit the created by Prisma Text just dont change anything else
+    setTextSize('watermark', 20);
+    addLuaText('watermark');
 end
